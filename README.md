@@ -1,4 +1,4 @@
-# SQL & POWERBI PROJECT: PIZZA SALES ANALYSIS
+# SQL & POWER BI PROJECT: PIZZA SALES ANALYSIS
 # Description
 This Power BI dashboard provides a comprehensive analysis of pizza sales from January to December 2015. It showcases key metrics such as total revenue, total orders, and average order value, along with detailed insights into daily/monthly trends, best and worst-selling pizzas, and performance by pizza category and size. The dashboard helps identify peak sales periods, top-performing products, and customer preferences to support data-driven business decisions.
 # Tools Used
@@ -142,6 +142,10 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales from Ja
 
 # 5.	Customize (Optional):
 •	Modify visuals, add filters, or upload new data to suit your own business needs.
+
+# Conclusion
+This Pizza Sales Dashboard provides valuable insights into sales performance, customer preferences, and product trends. By analyzing key metrics and visual patterns, businesses can make informed decisions to optimize menu offerings, boost revenue, and enhance customer satisfaction. The dashboard serves as a powerful tool for turning raw sales data into actionable strategies.
+
 
 
 
