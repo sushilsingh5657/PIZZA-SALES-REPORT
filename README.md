@@ -33,11 +33,11 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales from Ja
 •	Top Performing Size: Large
 # Steps to Build the Dashboard
 
-1.	Data Collection:
+# 1.	Data Collection:
 
 •	Obtained raw pizza sales data (Excel format) containing orders, dates, pizza types, and categories.
 
-2.	Data Cleaning (Excel):
+# 2.	Data Cleaning (Excel):
 
 •	Removed duplicates and errors
 
@@ -45,23 +45,23 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales from Ja
 
 •	Handled missing values
 
-3.	Data Loading (Power BI):
+# 3.	Data Loading (Power BI):
 
 •	Imported cleaned dataset into Power BI using Power Query
 
-4.	Data Transformation:
+# 4.	Data Transformation:
 
 •	Created new columns (e.g., Date, Day, Month)
 
 •	Converted data types
 
-5.	DAX Calculations:
+# 5.	DAX Calculations:
 
 •	Created KPIs like Total Revenue, Average Order Value, etc.
 
 •	Used measures for slicing data by time and category
 
-6.	Dashboard Design:
+# 6.	Dashboard Design:
 
 •	Added visuals: bar charts, cards, pie charts, line graphs
 
@@ -69,13 +69,14 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales from Ja
 
 •	Applied clean and user-friendly layout
 
-7.	Insights & Analysis:
+# 7.	Insights & Analysis:
 
 •	Analyzed peak times, best/worst performers
 
 •	Interpreted data trends to derive actionable insights
 
-<img width="668" alt="PIZZA_SALES_DASHBOARD1" src="https://github.com/user-attachments/assets/f0d2688b-218a-4803-b95e-139a9d8d819b" />
+<img width="673" alt="PIZZA_SALES_DASHBOARD1" src="https://github.com/user-attachments/assets/153e42a6-8024-4cbd-949d-71873de8b8c3" />
+
 <img width="674" alt="PIZZA_SALES_DASHBOARD2" src="https://github.com/user-attachments/assets/0ed1b4c0-16a1-49d6-9230-7a5ba00b3707" />
 
 
