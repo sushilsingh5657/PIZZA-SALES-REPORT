@@ -113,6 +113,36 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales from Ja
 <img width="320" alt="Que12 2" src="https://github.com/user-attachments/assets/497ab014-b5e1-4ccb-8c4a-dde1ac277530" />  <img width="193" alt="Ans12 2" src="https://github.com/user-attachments/assets/eb8f05d7-0fdd-4606-b446-b378364c2329" />
 
 
+# How to Use the Dashboard
+# 1.	Open the Power BI File (.pbix):
+•	Download and open the project file in Power BI Desktop.
+
+# 2.	Explore the Dashboard:
+•	Use slicers to filter data by:
+
+	Date (Day, Month)
+
+	Pizza Category (Classic, Veggie, Supreme)
+
+	Pizza Size (S, M, L, XL, XXL)
+
+# 3.	Analyze KPIs and Visuals:
+•	View key metrics like total revenue, orders, and average order value.
+
+•	Analyze trends using line and bar charts.
+
+•	Identify best and worst-performing pizzas using the ranked lists.
+
+# 4.	Gain Insights:
+•	Find peak sales periods and customer preferences.
+
+•	Use insights to make strategic decisions for marketing, inventory, or menu optimization.
+
+# 5.	Customize (Optional):
+•	Modify visuals, add filters, or upload new data to suit your own business needs.
+
+
+
 
 
 
