@@ -114,7 +114,9 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales from Ja
 
 
 # How to Use the Dashboard
-# 1.	Open the Power BI File https://github.com/sushilsingh5657/PIZZA-SALES-REPORT/raw/refs/heads/main/Pizza_Sales_PowerBI_Dashboard.pbix:
+# 1.	Open the Dashboard File
+•	Open the .pbix file (power) using Power BI Desktop.
+
 •	Download and open the project file in Power BI Desktop.
 
 # 2.	Explore the Dashboard:
@@ -140,6 +142,7 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales from Ja
 
 # 5.	Customize (Optional):
 •	Modify visuals, add filters, or upload new data to suit your own business needs.
+
 
 
 
